@@ -1,67 +1,67 @@
-goose
-lampshade
-toe injury
-velcro shoe
-underfunded university
-small-town rural theme
-outdated coal plant
-failing nation-state
-pediatrist
-misconception
-mote of dust
-Grand Unified Theory
-steam engine
-Gregorian calendar
-long-lost Mayan writing implement
-soliloquy
-dumbwaiter
-source of dysphoria
-arthritis symptom
-center of agriculture
-toaster oven
-combined milk-pasteurizer-and-french-press
-window to the soul
-soggy baguette
-choice of profession
-urban public school
-dorsal fin
-virtual connection
-banking trojan
-bad paint job
-multiple of seven
-single drop of rain
-love sonnet
-nuclear engineer
-Joshua tree
-troglodyte
-bacterial infection
-elderberry addiction
-remnant of Georgetown
-offensive comedian
-mystical frog bite
-insult generator
-treasure trove of information
-false pirate
-ill-disguised raccoon spy
-caboose of a sinking train
-lobotomized cabbage
-sole inheritor of a small fortune
-proprietor of a log cabin
-ink well
-cantankerer
-lawmaker of Wales
-rarely-successful lobbyist
-divergent p-series
-employee of Costco
-list of nouns
-easter egg
-video game designer
-sigma-notation-user
-town fool
-starving artist
-renowned playwright
-ship's rudder
-column count
-mainstream media consumer
-support pylon
-support python
+goose !weak
+lampshade !silly
+toe injury !weak
+velcro shoe !silly
+underfunded university !silly
+small-town rural theme !silly
+outdated coal plant !silly
+failing nation-state !silly
+pediatrist !silly
+misconception !silly
+mote of dust !weak
+Grand Unified Theory !silly
+steam engine !silly
+Gregorian calendar !silly
+long-lost Mayan writing implement !silly
+soliloquy !silly
+dumbwaiter !weak
+source of dysphoria !silly
+arthritis symptom !silly
+center of agriculture !silly
+toaster oven !weak
+combined milk-pasteurizer-and-french-press !silly
+window to the soul !silly
+soggy baguette !weak
+choice of profession !silly
+urban public school !silly
+dorsal fin !silly
+virtual connection !silly
+banking trojan !silly
+bad paint job !silly
+multiple of seven !silly
+single drop of rain !silly
+love sonnet !silly
+nuclear engineer !silly
+Joshua tree !silly
+troglodyte !weak
+bacterial infection !weak
+elderberry addict !weak
+remnant of Georgetown !silly
+offensive comedian !weak
+mystical frog bite !silly
+insult generator !silly
+treasure trove of information !silly
+false pirate !silly
+ill-disguised raccoon spy !silly
+caboose of a sinking train !weak
+lobotomized cabbage !silly
+sole inheritor of a small fortune !silly
+proprietor of a log cabin !silly
+ink well !silly
+cantankerer !weak
+lawmaker of Wales !silly
+rarely-successful lobbyist !silly
+divergent p-series !silly
+employee of Costco !weak
+list of nouns !silly
+easter egg !silly
+video game designer !silly
+sigma-notation-user !silly
+town fool !weak
+starving artist !weak
+renowned playwright !silly
+ship's rudder !silly
+column count !silly
+mainstream media consumer !weak
+structural support pylon !silly
+emotional support python !silly
