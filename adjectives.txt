@@ -1,62 +1,63 @@
-lactose-intolerant
-empty-headed
-nimwitted
-gargantuan
-singaporean
-luminiscent
-biodegradable
-detestable
-rank
-mildew-enchanted
-well-orchestrated
-fenced-in
-sheltered
-ingeniously floorboarded
-gorgonzola-tempered
-yellow-bellied
-pursley-esque
-billy-jeaned
-curtainrod-purple
-lily-livered
-dot-produced
-flimsy
-kinetic
-anticorporational
-heavily sequined
-corset-miswearing
-dusty
-lampshaded
-jaded
-non-euclidean
-well and truly borked
-FORTRAN-loving
-synchronized
-silly
-mildly adequate
-incapable-of-sneezing
-oft-truant
-smelling-of-milk
-biologically vestigial
-occasionally humorous
-lousily awarded
-automated
-historically fabled
-ill-fated
-lackluster
-totally incompetent
-cheese-wedge-shaped
-donkamatic
-barnacle-encrusted
-yo-ho'ing
-ill-begotten
-born-out-of-wedlock
-somewhat uncommonly named
-irony-deaf
-unappreciative
-far-too-zoomed-in
-sickening-to-look-at
-informationally insecure
-fiercely-disputed
-still-undetermined
-largely misunderstood
-society-unfamiliar
+lactose-intolerant !silly
+empty-headed !weak
+nimwitted !weak
+gargantuan !silly
+singaporean !silly
+luminiscent !silly
+biodegradable !silly
+detestable !weak
+rank !weak
+mildew-enchanted !silly
+well-orchestrated !silly
+fenced-in !silly
+sheltered !silly
+ingeniously floorboarded !silly
+gorgonzola-tempered !silly
+yellow-bellied !weak
+pursley-esque !silly
+billy-jeaned !silly
+curtainrod-purple !silly
+lily-livered !weak
+dot-produced !silly
+flimsy !silly
+kinetic !silly
+anticorporational !silly
+heavily sequined !silly
+corset-wearing !silly
+dusty !weak
+lampshaded !silly
+non-euclidean !silly
+well and truly borked !silly
+FORTRAN-loving !silly
+synchronized !silly
+silly !weak
+mildly adequate !silly
+barely adequate !weak
+truly mediocre !weak
+incapable-of-sneezing !silly
+oft-truant !silly
+smelling-of-milk !weak
+biologically vestigial !silly
+occasionally humorous !silly
+lousily awarded !silly
+automated !silly
+historically fabled !silly
+ill-fated !silly
+lackluster !weak
+totally incompetent !weak
+cheese-wedge-shaped !silly
+donkamatic !silly
+barnacle-encrusted !weak
+yo-ho'ing !silly
+ill-begotten !weak
+born-out-of-wedlock !mean
+somewhat uncommonly named !silly
+irony-deaf !weak
+unappreciative !weak
+far-too-zoomed-in !silly
+sickening-to-look-at !weak
+informationally insecure !weak
+fiercely-disputed !silly
+still-undetermined !silly
+largely misunderstood !silly
+society-unfamiliar !weak
