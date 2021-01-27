@@ -183,7 +183,7 @@ public class Insult {
         switch (type) {
             case "!random":
             int indA = (int) (Math.random() * adjectives.size());
-            if(indA == 0) {
+            if(adjectives.size() == 0) {
                 ret = "[Out of " + type + " adjectives]";
             }
             else {
@@ -193,7 +193,7 @@ public class Insult {
             break;
             case "!silly":
             int indB = (int) (Math.random() * sillyAdjectives.size());
-            if(indB == 0) {
+            if(sillyAdjectives.size() == 0) {
                 ret = "[Out of " + type + " adjectives]";
             }
             else {
@@ -202,23 +202,23 @@ public class Insult {
             }
             break;
             case "!weak":
-            int ind = (int) (Math.random() * weakAdjectives.size());
-            if(ind == 0) {
+            int indC = (int) (Math.random() * weakAdjectives.size());
+            if(weakAdjectives.size() == 0) {
                 ret = "[Out of " + type + " adjectives]";
             }
             else {
-                ret = weakAdjectives.get(ind);
-                weakAdjectives.remove(ind);
+                ret = weakAdjectives.get(indC);
+                weakAdjectives.remove(indC);
             }
             break;
             case "!mean":
-            int indC = (int) (Math.random() * meanAdjectives.size());
-            if(indC == 0) {
+            int indD = (int) (Math.random() * meanAdjectives.size());
+            if(meanAdjectives.size() == 0) {
                 ret = "[Out of " + type + " adjectives]";
             }
             else {
-                ret = meanAdjectives.get(indC);
-                meanAdjectives.remove(indC);
+                ret = meanAdjectives.get(indD);
+                meanAdjectives.remove(indD);
             }
             break;
             default:
@@ -234,7 +234,7 @@ public class Insult {
         switch (type) {
             case "!random":
             int indA = (int) (Math.random() * nouns.size());
-            if(indA == 0) {
+            if(nouns.size() == 0) {
                 ret = "[Out of " + type + " nouns]";
             }
             else {
@@ -244,7 +244,7 @@ public class Insult {
             break;
             case "!silly":
             int indB = (int) (Math.random() * sillyNouns.size());
-            if(indB == 0) {
+            if(sillyNouns.size() == 0) {
                 ret = "[Out of " + type + " nouns]";
             }
             else {
@@ -254,7 +254,7 @@ public class Insult {
             break;
             case "!weak":
             int indC = (int) (Math.random() * weakNouns.size());
-            if(indC == 0) {
+            if(weakNouns.size() == 0) {
                 ret = "[Out of " + type + " nouns]";
             }
             else {
@@ -264,7 +264,7 @@ public class Insult {
             break;
             case "!mean":
             int indD = (int) (Math.random() * meanNouns.size());
-            if(indD == 0) {
+            if(meanNouns.size() == 0) {
                 ret = "[Out of " + type + " nouns]";
             }
             else {
