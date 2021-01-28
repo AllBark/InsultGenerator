@@ -37,17 +37,17 @@ truly mediocre !weak
 incapable-of-sneezing !silly
 oft-truant !silly
 smelling-of-milk !weak
-biologically vestigial !silly
+biologically vestigial !weak
 occasionally humorous !silly
 lousily awarded !silly
 automated !silly
 historically fabled !silly
 ill-fated !silly
 lackluster !weak
-totally incompetent !weak
+totally incompetent !mean
 cheese-wedge-shaped !silly
 donkamatic !silly
-barnacle-encrusted !weak
+barnacle-encrusted !mean
 yo-ho'ing !silly
 ill-begotten !weak
 born-out-of-wedlock !mean
@@ -55,9 +55,12 @@ somewhat uncommonly named !silly
 irony-deaf !weak
 unappreciative !weak
 far-too-zoomed-in !silly
-sickening-to-look-at !weak
+sickening-to-look-at !mean
 informationally insecure !weak
 fiercely-disputed !silly
 still-undetermined !silly
 largely misunderstood !silly
 society-unfamiliar !weak
+vapid !weak
+eight-bits-short-of-a-byte !weak
+asbestos-supporting !weak
