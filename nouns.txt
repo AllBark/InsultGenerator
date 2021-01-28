@@ -18,7 +18,7 @@ dumbwaiter !weak
 source of dysphoria !silly
 arthritis symptom !silly
 center of agriculture !silly
-toaster oven !weak
+toaster oven !silly
 combined milk-pasteurizer-and-french-press !silly
 window to the soul !silly
 soggy baguette !weak
@@ -33,7 +33,7 @@ single drop of rain !silly
 love sonnet !silly
 nuclear engineer !silly
 Joshua tree !silly
-troglodyte !weak
+troglodyte !mean
 bacterial infection !weak
 elderberry addict !weak
 remnant of Georgetown !silly
@@ -65,3 +65,10 @@ column count !silly
 mainstream media consumer !weak
 structural support pylon !silly
 emotional support python !silly
+definition of stupidity !mean
+victim of a cranioectomy !mean
+one-half of a halfwit !mean
+expert at having no talents !mean
+spare tire on a hovercar !mean
+waste of oxygen on an escape pod !mean
+idol of idiot worshipers !mean
