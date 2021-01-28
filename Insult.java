@@ -1,5 +1,7 @@
 import java.util.*;
 import java.io.*;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 
 public class Insult {
     private static ArrayList<String> adjectives = new ArrayList<String>();
@@ -114,8 +116,11 @@ public class Insult {
 
     public static void readAdjectives() throws FileNotFoundException {
         String[] types = {"!silly", "!weak", "!mean", "!random"};
-            for(String type : types) {
-            Scanner readAdj = new Scanner(new File("C:\\Users\\Remote\\Documents\\Insult Generator\\adjectives.txt"));
+        for(String type : types) {
+            Path currentDir = Paths.get("Documents\\Insult Generator");
+            Path absolutePath = currentDir.toAbsolutePath();
+            Path one = absolutePath.resolve("adjectives.txt");
+            Scanner readAdj = new Scanner(one.toFile());
             while(readAdj.hasNextLine()) {
                 String n = readAdj.nextLine();
                 switch (type) {
@@ -147,8 +152,11 @@ public class Insult {
 
     public static void readNouns() throws FileNotFoundException {
         String[] types = {"!silly", "!weak", "!mean", "!random"};
-            for(String type : types) {
-            Scanner readNoun = new Scanner(new File("C:\\Users\\Remote\\Documents\\Insult Generator\\nouns.txt"));
+        for(String type : types) {
+            Path currentDir = Paths.get("Documents\\Insult Generator");
+            Path absolutePath = currentDir.toAbsolutePath();
+            Path one = absolutePath.resolve("nouns.txt");
+            Scanner readNoun = new Scanner(one.toFile());
             while(readNoun.hasNextLine()) {
                 String n = readNoun.nextLine();
                 switch (type) {
