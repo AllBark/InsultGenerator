@@ -60,7 +60,7 @@ public class Insult {
                 String finalInsult = "";
                 for(int i = 0; i < numAdjs; i++) {
                     System.out.println("What type of adjective should Adjective " + i + " be?");
-                    System.out.println("(r, s, w, m)");
+                    System.out.println("(r for random, s for silly, w for weeak, m for mean)");
                     String type = reader.next();
                     switch (type) {
                         case "r":
@@ -83,7 +83,7 @@ public class Insult {
                     previous.add(type);
                 }
                 System.out.println("What type of noun should your noun be?");
-                System.out.println("(r, s, w, m)");
+                System.out.println("(r for random, s for silly, w for weak, m for mean)");
                 String type = reader.next();
                 switch (type) {
                     case "r":
