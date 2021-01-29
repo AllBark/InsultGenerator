@@ -64,3 +64,13 @@ society-unfamiliar !weak
 vapid !weak
 eight-bits-short-of-a-byte !weak
 asbestos-supporting !weak
+likely-unvaccinated !mean
+rejected-by-blind-moles !mean
+less-intellectual-than-a-snail !mean
+slower-than-an-atom-at-absolute-zero !mean
+brain-addled !mean
+desperate-for-attention !mean
+mentally and physically subpar !mean
+utterly disappointing !mean
+myopic !weak
+completely and totally rubbish !mean
